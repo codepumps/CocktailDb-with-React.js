@@ -14,4 +14,4 @@ I used only React Hooks and functional component.
 
 ### `Check out CocktailsDB App`
 
-You can run demo CocktailsDB app. [Show Project](https://weather-api-with-js.netlify.app/).
+You can run demo CocktailsDB app. [Show Project](https://cocktaildb-api.netlify.app/).
